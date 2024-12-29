@@ -1,0 +1,31 @@
+Help on package PublicDataReader:
+
+NAME
+    PublicDataReader
+
+PACKAGE CONTENTS
+    PublicDataPortal (package)
+    Seoul (package)
+    config (package)
+    data
+    ecos (package)
+    fred (package)
+    kbland (package)
+    kosis (package)
+    utils (package)
+    vworld (package)
+
+CLASSES
+    builtins.object
+        PublicDataReader.PublicDataPortal.kamco.Kamco
+        PublicDataReader.PublicDataPortal.molit.BuildingLedger
+        PublicDataReader.PublicDataPortal.molit.BuildingLicense
+        PublicDataReader.PublicDataPortal.molit.HousingLicense
+        PublicDataReader.PublicDataPortal.molit.LandForestLedger
+        PublicDataReader.PublicDataPortal.molit.LandOwnership
+...
+FILE
+    c:\users\user\miniforge3\envs\dj\lib\site-packages\publicdatareader\__init__.py
+
+
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...

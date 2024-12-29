@@ -1,0 +1,29 @@
+Help on package PublicDataReader.PublicDataPortal in PublicDataReader:
+
+NAME
+    PublicDataReader.PublicDataPortal
+
+PACKAGE CONTENTS
+    kamco
+    molit
+    nts
+    reb
+    semas
+
+FILE
+    c:\users\user\miniforge3\envs\dj\lib\site-packages\publicdatareader\publicdataportal\__init__.py
+
+//
+
+help(pdr.PublicDataPortal.kamco)
+help(pdr.PublicDataPortal.molit)
+
+//
+
+소스 코드는 c:\users\user\miniforge3\envs\dj\lib\site-packages\publicdatareader\publicdataportal\ 경로에 위치
+
+//
+
+from publicdatareader import PublicDataPortal
+kamco_instance = PublicDataPortal.kamco.Kamco()
+# kamco_instance의 메서드 호출
